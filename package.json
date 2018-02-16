@@ -1,0 +1,25 @@
+{
+  "name": "chatbots",
+  "version": "1.0.0",
+  "description": "Chatbot criado para comunicação usando como plataforma o Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardossantos/chatbots.git"
+  },
+  "keywords": [
+    "chatbot",
+    "telegram",
+    "AI",
+    "Inteligência"
+  ],
+  "author": "Eduardo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eduardossantos/chatbots/issues"
+  },
+  "homepage": "https://github.com/eduardossantos/chatbots#readme"
+}
