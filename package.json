@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/eduardossantos/chatbots/issues"
   },
-  "homepage": "https://github.com/eduardossantos/chatbots#readme"
+  "homepage": "https://github.com/eduardossantos/chatbots#readme",
+  "dependencies": {
+    "telegraf": "3.17.3"
+  }
 }
